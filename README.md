@@ -2,7 +2,7 @@
 
 Security is a major worry in this inventive tech world. Consistently millions of organizations and individual lose their private credentials due to a lack of security awareness. That can be extremely risky because nobody wants that anybody to brutal his/her privacy. An awful individual can easily break your weak password, so don’t do this sort of misstep!
 
-
+### Generate strong random password using this tool!
 ### how's this tool works?
 ### <a href="https://technicalfaraz.com/strong-password-generator/#page-content">check out this!</a><br>
 
