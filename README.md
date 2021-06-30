@@ -5,7 +5,7 @@ Security is a major worry in this inventive tech world. Consistently millions of
 ## Generate strong random password using this tool!
 ### how's this tool works?<a href="https://technicalfaraz.com/strong-password-generator/#page-content"> check it out!</a><br>
 
-### connect with me for more amazing tools:
+### connect with me:
 [<img align="center" alt="Noor Ahmed Shaikh | blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
